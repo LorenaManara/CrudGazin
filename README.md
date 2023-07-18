@@ -4,9 +4,7 @@
 
 ### Nele temos as 4 operações basicas de um crud
 
-
-
-
+# Antes de executar o codigo, executar o cadastro.sql
 
 # 📁 Acesso ao projeto
 
